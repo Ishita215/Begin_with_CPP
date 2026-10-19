@@ -7,7 +7,7 @@ struct array
  int a[10]={1,2,3,4};
  int size;
 }arr;
-
+//CODE TO DELETE
 void deletee(struct array *arr,int index)
 {
 //   int x=0,i;
@@ -23,7 +23,7 @@ for(int i=index;i<arr->len-1;i++)
 }
 // return 0;
 // }
-
+//CODE TO DISPLAY
 void display(struct array arr)
 {
   int i;
