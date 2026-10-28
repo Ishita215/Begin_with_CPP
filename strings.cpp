@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-   char str[]="Tavishi";
+   char str[]="Ishitha";
    strlwr(str);
    cout<<str<<endl;
 }
